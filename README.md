@@ -1,4 +1,6 @@
 # Weather App
+April 2024
+Styliani Kalaitzaki
 
 ## Description
 The Weather App is a web application that provides users with real-time weather information based on their location input. Users can enter their location in the search box, triggering an event that fetches weather data such as temperature, humidity, and wind speed from the OpenWeatherMap API. The app dynamically updates the interface to display the current weather conditions, including a visual representation of the weather state.
