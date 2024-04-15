@@ -20,5 +20,11 @@ The Weather App is a web application that provides users with real-time weather 
 2. Press the search button or hit Enter to fetch weather data.
 3. View the current weather conditions displayed on the screen.
 
+## Screenshots
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/screenshot3.png)
+
+
 ## Acknowledgements
 - [OpenWeatherMap API](https://openweathermap.org/api) - For providing weather data.
