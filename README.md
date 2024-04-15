@@ -23,9 +23,9 @@ The Weather App is a web application that provides users with real-time weather 
 3. View the current weather conditions displayed on the screen.
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 2](screenshots/screenshot3.png)
+<img src="screenshots/screenshot1.png" alt="Screenshot 1" height="auto" width="300"/>
+<img src="screenshots/screenshot2.png" alt="Screenshot 2" height="auto" width="300"/>
+<img src="screenshots/screenshot3.png" alt="Screenshot 3" height="auto" width="300"/>
 
 
 ## Acknowledgements
