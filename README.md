@@ -23,6 +23,9 @@ The Weather App is a web application that provides users with real-time weather 
 2. Press the search button or hit Enter to fetch weather data.
 3. View the current weather conditions displayed on the screen.
 
+## Link
+- [WeatherApp](https://stylianikalaitzaki.github.io/WeatherApp/)
+
 ## Screenshots
 <img src="screenshots/screenshot1.png" alt="Screenshot 1" height="auto" width="300"/>
 <img src="screenshots/screenshot2.png" alt="Screenshot 2" height="auto" width="300"/>
